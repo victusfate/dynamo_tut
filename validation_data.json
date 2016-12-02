@@ -1,0 +1,437 @@
+{
+  "dataVersion" : 1,
+  "independentSegments" : false,
+  "parsedSegmentsCount" : 17,
+  "hasDiscSequenceTag" : false,
+  "discontinuities" : [
+    {
+      "segments" : [
+        {
+          "segmentDurationTag" : 5.969667,
+          "mediaSequence" : 0,
+          "dataID" : 1,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-0.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 17.66961160193366,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.053667,
+          "mediaSequence" : 1,
+          "dataID" : 2,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-1.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 11.49808365272455,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 5.882667,
+          "mediaSequence" : 2,
+          "dataID" : 3,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-2.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 5.7500, Playlist duration: 5.8827"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 10.13856032443393,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.111667,
+          "mediaSequence" : 3,
+          "dataID" : 4,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-3.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 5.8750, Playlist duration: 6.1117"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 7.079951649110688,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.518667,
+          "mediaSequence" : 4,
+          "dataID" : 5,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-4.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 6.4170, Playlist duration: 6.5187"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 8.981108702384638,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 5.993667,
+          "mediaSequence" : 5,
+          "dataID" : 6,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-5.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 5.7500, Playlist duration: 5.9937"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 8.491182233834095,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.578667,
+          "mediaSequence" : 6,
+          "dataID" : 7,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-6.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 6.2920, Playlist duration: 6.5787"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 8.582326764144947,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.091667,
+          "mediaSequence" : 7,
+          "dataID" : 8,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-7.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 5.8750, Playlist duration: 6.0917"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 12.52867478383625,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.240667,
+          "mediaSequence" : 8,
+          "dataID" : 9,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-8.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 6.0000, Playlist duration: 6.2407"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 5.334170065892689,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.380667,
+          "mediaSequence" : 9,
+          "dataID" : 10,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-9.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 6.0830, Playlist duration: 6.3807"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 7.51143043762247,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.093134,
+          "mediaSequence" : 10,
+          "dataID" : 11,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-10.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 5.8330, Playlist duration: 6.0931"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 9.242743635479163,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 8.371667,
+          "mediaSequence" : 11,
+          "dataID" : 12,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-11.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 8.2090, Playlist duration: 8.3717"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 4.727272727272728,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.175134,
+          "mediaSequence" : 12,
+          "dataID" : 13,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-12.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 5.9580, Playlist duration: 6.1751"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 10.40792345140171,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.003667,
+          "mediaSequence" : 13,
+          "dataID" : 14,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-13.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 5.0762, Playlist duration: 6.0037"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 13.09264034913707,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 5.238667,
+          "mediaSequence" : 14,
+          "dataID" : 15,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-14.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 4.9238, Playlist duration: 5.2387"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 10.56302264955818,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "segmentDurationTag" : 6.391667,
+          "mediaSequence" : 15,
+          "dataID" : 16,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-15.ts",
+          "segmentByteRangeLength" : 0,
+          "messages" : [
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Framerate change without discontinuity tag detected"
+            },
+            {
+              "errorStatusCode" : -1,
+              "errorComment" : "Playlist vs segment duration mismatch",
+              "errorDetail" : "Segment duration 5.9170, Playlist duration: 6.3917"
+            }
+          ],
+          "videoStartsWithIDR" : true,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0,
+          "videoFrameRate" : 10.74185968445787,
+          "segmentCryptMethod" : "NONE",
+          "discontinuityDomain" : 0
+        },
+        {
+          "discontinuityDomain" : 0,
+          "segmentByteRangeLength" : 0,
+          "url" : "7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3-16.ts",
+          "dataID" : 17,
+          "videoFrameRate" : 13.57166501158557,
+          "segmentCryptMethod" : "NONE",
+          "videoStartsWithIDR" : true,
+          "segmentDurationTag" : 6.331667,
+          "mediaSequence" : 16,
+          "sslContentDeliveredSecurely" : true,
+          "segmentByteRangeOffset" : 0
+        }
+      ],
+      "measurements" : {
+        "measuredMaxBitrate" : 1859804.823668604,
+        "measuredMeanBitrate" : 1387579.065377349
+      },
+      "tracks" : [
+        {
+          "trackVideoIDRStandardDeviation" : 0.5334830284918995,
+          "trackId" : 1,
+          "trackVideoWidth" : 640,
+          "trackVideoLevel" : 30,
+          "trackVideoHeight" : 360,
+          "trackMediaType" : "vide",
+          "trackVideoIDRInterval" : 1.99916,
+          "trackVideoIsInterlaced" : false,
+          "trackVideoProfile" : 100,
+          "trackMediaSubType" : "avc1"
+        },
+        {
+          "trackMediaType" : "soun",
+          "trackAudioChannelCount" : 1,
+          "trackId" : 2,
+          "trackAudioSampleRate" : 44100,
+          "trackMediaSubType" : "aac ",
+          "trackAudioChannelLayout" : "Mono"
+        }
+      ]
+    }
+  ],
+  "measuredMaxBitrate" : 1859804,
+  "gzipEncoded" : false,
+  "url" : "https:\/\/d2ohigj5624u4a.cloudfront.net\/streams\/7ffd3f76-0347-4cf9-a110-3af1237aea67\/vod_v0_7ffd3f76-0347-4cf9-a110-3af1237aea67_stream3.m3u8",
+  "playlistKind" : "media",
+  "validatorTimestamp" : "2016-12-02T16:46:49-05:00",
+  "sslContentDeliveredSecurely" : true,
+  "validatorVersion" : "1.1(151117)",
+  "dataID" : 0,
+  "sslHosts" : {
+    "https:\/\/d2ohigj5624u4a.cloudfront.net" : {
+      "sslNegotiatedProtocolVersion" : 8,
+      "sslNegotiatedCipher" : 49199,
+      "sslRSAKeySizeInBits" : 2048
+    }
+  },
+  "processedSegmentsCount" : 17,
+  "playlistTargetDuration" : 10,
+  "hasEndTag" : true,
+  "playlistType" : "VOD",
+  "measuredMeanBitrate" : 1387579
+}
